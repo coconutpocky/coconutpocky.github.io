@@ -1,0 +1,33 @@
+h1 {
+  color: yellow;
+  Background-color: black;
+  font-family: fantasy;
+  font-size: 50px;
+text-align: center;}
+  
+
+img {
+  background-color: orange;}
+
+.intro {
+  font-size: 40px;
+  font-family: fantasy;
+  text-align: center;
+}
+
+.question {
+  font-size: 30px;
+  font-family: fantasy;
+  background-color: yellow;
+  opacity: .8;
+}
+
+.answers,
+.ques {
+  font-size: 20px;
+  font-weight:  bold;
+}
+
+body {
+  background-color: orange;
+}
